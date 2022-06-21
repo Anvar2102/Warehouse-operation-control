@@ -1,0 +1,1 @@
+insert into roles(role_names) values ('ROLE_ADMIN');
